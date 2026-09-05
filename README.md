@@ -1,7 +1,16 @@
 # GlitchSnake
-Access GlitchSnake Here
-https://glitchsnake.pages.dev
-<img width="2555" height="1307" alt="image" src="https://github.com/user-attachments/assets/a130ca74-45dd-4f69-a4df-9d6a91272360" />
-Made with HTML,and CSS
-I used AI generated music because its just easier than using existing music
-Classic Snake game, although the UX is modern
+
+> Classic Snake game, although the UX is modern
+
+## Access
+
+(https://glitchsnake.pages.dev)
+
+
+
+<img width="2555" height="1307" alt="GlitchSnake Screenshot" src="https://github.com/user-attachments/assets/a130ca74-45dd-4f69-a4df-9d6a91272360" />
+
+## Tech
+
+- HTML, JS, CSS
+- AI generated music (easier than using existing music)   
